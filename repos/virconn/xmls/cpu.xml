@@ -1,0 +1,5 @@
+<cpu>
+  <arch>ARCH</arch>
+  <model>MODEL</model>
+  <vendor>VENDOR</vendor>
+</cpu>
